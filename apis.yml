@@ -1,0 +1,67 @@
+aid: moxtra
+name: Moxtra
+description: >-
+  Moxtra (now operating as Moxo) is a contextual collaboration and customer
+  engagement platform that lets businesses embed chat, video meetings, voice
+  calls, file sharing, e-signature, digital workflows, and binder-based
+  collaboration into their own mobile and web applications via SDKs and REST
+  APIs. The Moxtra Developer Portal exposes 200+ REST API endpoints for
+  managing users, binders (workspaces), messages, files, meetings, todos,
+  and notifications. Authentication uses OAuth 2.0 access tokens issued
+  against the Moxtra (or self-branded GroupHour) authorization server.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Collaboration
+  - Customer Engagement
+  - Messaging
+  - Video Conferencing
+  - Workflow
+  - Embedded SDK
+  - Communication
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/moxtra/refs/heads/main/apis.yml
+created: '2026-05-11'
+modified: '2026-05-11'
+specificationVersion: '0.19'
+apis:
+  - aid: moxtra:rest-api
+    name: Moxtra REST API
+    description: >-
+      Moxtra's REST API for building embedded collaboration experiences,
+      covering users, binders (workspaces), pages, messages, files, meetings,
+      todos, signatures, and webhooks. Authentication uses OAuth 2.0 access
+      tokens; partner apps are registered in the Moxtra Developer Portal
+      and receive a client ID and secret to obtain user-scoped access tokens.
+    humanURL: https://developer.moxtra.com/docs/docs-rest-api/integration/
+    baseURL: https://api.moxtra.com/v1
+    tags:
+      - Collaboration
+      - REST
+      - Messaging
+      - Meetings
+      - Binders
+      - OAuth 2.0
+    properties:
+      - type: Documentation
+        url: https://developer.moxtra.com/docs/docs-rest-api/integration/
+      - type: Developer Portal
+        url: https://developer.moxtra.com/
+      - type: GroupHour Documentation
+        url: https://developer.grouphour.com/docs/
+
+common:
+  - type: Website
+    url: https://www.moxo.com
+  - type: Legacy Website
+    url: https://www.moxtra.com
+  - type: Documentation
+    url: https://developer.moxtra.com/
+  - type: Pricing
+    url: https://www.moxo.com/pricing
+  - type: Sign Up
+    url: https://developer.moxtra.com/
+
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
