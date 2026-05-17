@@ -59,7 +59,7 @@ common:
     url: https://developer.moxtra.com/
   - type: Pricing
     url: https://www.moxo.com/pricing
-  - type: Sign Up
+  - type: SignUp
     url: https://developer.moxtra.com/
 
 maintainers:
