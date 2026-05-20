@@ -51,6 +51,10 @@ apis:
         url: https://developer.grouphour.com/docs/
 
 common:
+  - type: GitHubOrganization
+    url: https://github.com/Moxtra
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/moxtra
   - type: Website
     url: https://www.moxo.com
   - type: Legacy Website
