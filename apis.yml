@@ -45,7 +45,7 @@ apis:
     properties:
       - type: Documentation
         url: https://developer.moxtra.com/docs/docs-rest-api/integration/
-      - type: Developer Portal
+      - type: DeveloperPortal
         url: https://developer.moxtra.com/
       - type: GroupHour Documentation
         url: https://developer.grouphour.com/docs/
@@ -63,7 +63,7 @@ common:
     url: https://developer.moxtra.com/
   - type: Pricing
     url: https://www.moxo.com/pricing
-  - type: SignUp
+  - type: Signup
     url: https://developer.moxtra.com/
 
 maintainers:
