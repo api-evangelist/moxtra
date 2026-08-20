@@ -27,6 +27,14 @@ tags:
   - Customer Engagement
   - Messaging
   - Video Conferencing
+  - Workflows
+  - Embedded SDK
+  - Communications
+tags_raw:
+  - Collaboration
+  - Customer Engagement
+  - Messaging
+  - Video Conferencing
   - Workflow
   - Embedded SDK
   - Communication
@@ -47,6 +55,13 @@ apis:
     humanURL: https://developer.moxtra.com/docs/docs-rest-api/integration/
     baseURL: https://api.moxtra.com/v1
     tags:
+      - Collaboration
+      - REST
+      - Messaging
+      - Meetings
+      - Binders
+      - Authentication
+    tags_raw:
       - Collaboration
       - REST
       - Messaging
