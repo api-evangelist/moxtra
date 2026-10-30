@@ -1,4 +1,4 @@
-# Moxtra (moxtra)
+# Moxtra
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-API and integration profile for Moxtra.
+Moxtra (now operating as Moxo) is a contextual collaboration and customer engagement platform that lets businesses embed chat, video meetings, voice calls, file sharing, e-signature, digital workflows, and binder-based collaboration into their own mobile and web applications via SDKs and REST APIs. The Moxtra Developer Portal exposes 200+ REST API endpoints for managing users, binders (workspaces), messages, files, meetings, todos, and notifications. Authentication uses OAuth 2.0 access tokens issued against the Moxtra (or self-branded GroupHour) authorization server.
+
+**Areas:** Collaboration · Customer Engagement · Messaging · Video Conferencing · Workflows · Embedded SDK · Communications
+
+## Moxtra on APIs.io
+
+Everything profiled for Moxtra is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/moxtra/](https://apis.io/providers/moxtra/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Moxtra REST API](https://apis.io/apis/moxtra/rest-api/) — Moxtra's REST API for building embedded collaboration experiences, covering users, binders (workspaces), pages, messages, files, meetings, todos,…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Moxtra Domain Security](https://apis.io/security/moxtra/moxtra-domain-security/)
+- [Moxtra Trust Center](https://apis.io/security/moxtra/moxtra-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.moxo.com)
+- [Documentation](https://developer.moxtra.com/)
+- [Pricing](https://www.moxo.com/pricing)
+- [Blog](https://www.moxo.com/blog)
+- [GitHub](https://github.com/Moxtra)
+
+## API Evangelist rating
+
+**Kin Score 16.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 31.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/moxtra/](https://apis.io/providers/moxtra/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Moxtra: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/moxtra/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
